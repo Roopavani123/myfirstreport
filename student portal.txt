@@ -4,9 +4,10 @@ This is a basic demo project for a "student portal demo".
 Student name : P.Roopavani
 College name : Aditya degree college for women,kakinada
 Mail : aditya.ac.in@gmai.com
-phone number : 9704276665
+phone number : 7842113891
 
 
 ## project overview
 
 The Student portal is a web-based application  designed to help students manage their academy activities.
+
